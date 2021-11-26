@@ -7,24 +7,25 @@ Notify-client-by-usbhost (WHMCH client area notification module by usbhost)  is 
 
 
 # installation
+Step 1 ) Create <b>notify_client_usbhost.zip</b> with files *<b>lib ,hooks.php ,notify_client_usbhost.php</b>* <br>
 
-Step 1 ) Upload *<b>notify_client_usbhost.zip</b>* to <b>WHMS >> modules >> addons </b>
+Step 2 ) Upload *<b>notify_client_usbhost.zip</b>* to <b>WHMS >> modules >> addons </b>
 
-Step 2 ) Extract files in <b>WHMS >> modules >> addons >> notify_client_usbhost</b> <br>
+Step 3 ) Extract files in <b>WHMS >> modules >> addons >> notify_client_usbhost</b> <br>
          
 ![image](https://user-images.githubusercontent.com/95051463/143535127-58e6071c-d6de-455b-9547-cc241e94b414.png)<br>
 =>must check   *<b>lib ,hooks.php ,notify_client_usbhost.php</b>*     files inside  <b>WHMS >> modules >> addons >> notify_client_usbhost</b> <br>
 
 
-Step 3 ) Open <b>whmcs Admin area</b> and Go to <b>System setting >> Addon Modules</b><br>
+Step 4 ) Open <b>whmcs Admin area</b> and Go to <b>System setting >> Addon Modules</b><br>
 ![image](https://user-images.githubusercontent.com/95051463/143535422-bcbd9498-b62b-43ca-95af-fb022c57b85d.png)<br><br>
 
 
 
-Step 4 ) Find module <b>Notify client by usbhost</b> and Click on <b>Activate</b> , Then Click on <b>Configure</b> and check <b>Full Administrator</b> and save it.<br>
+Step 5 ) Find module <b>Notify client by usbhost</b> and Click on <b>Activate</b> , Then Click on <b>Configure</b> and check <b>Full Administrator</b> and save it.<br>
   ![image](https://user-images.githubusercontent.com/95051463/143535543-7ef1c112-2734-4f8f-af07-75f3784e006a.png)<br>
   
-Step 4 ) Open <b>Addon >> Notify client by usbhost</b><br>
+Step 6 ) Open <b>Addon >> Notify client by usbhost</b><br>
   ![image](https://user-images.githubusercontent.com/95051463/143535948-e0651274-5c75-4c21-a5b1-122bf1c4e58d.png)
   
   *********************************
