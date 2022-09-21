@@ -39,7 +39,7 @@ Step 6 ) Open <b>Addon >> Notify client by usbhost</b><br>
 
 
   # =>> Credit & Follow <<=
-  => developed by <b><a href="https://github.com/pagi-ronak">Ronak Pagi </a></b>
+  => developed by <b><a href="https://github.com/pagi-ronak">Ronak Pagi </a></b>  [ <b><a href="https://www.linkedin.com/in/pagi-ronak/">Linkedin </a></b> | <b><a href="https://t.me/pagi_ronak">Telegram </a></b> ]
   <br>
   => Follow  <b><a href="https://github.com/usbhost-dev/">usbhost dev </a></b>
   <br>
